@@ -1,6 +1,8 @@
 print("hello",end=" ")
 #this is editor
 
+print('hi')
+
 #single file / coll of files - module - library
 #running a module - running a file
 print("Hi","I","j") #printed with space
@@ -39,3 +41,4 @@ a=10
 b=20 
 #type - int,float,bool,str
 print(type(a))
+
