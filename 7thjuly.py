@@ -1,4 +1,4 @@
-print("hello",end=" ")
+print"hello",end=" ")
 #this is editor
 
 print('hi')
@@ -41,4 +41,5 @@ a=10
 b=20 
 #type - int,float,bool,str
 print(type(a))
+
 
