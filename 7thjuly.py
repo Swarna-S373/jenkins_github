@@ -1,4 +1,4 @@
-print"hello",end=" ")
+print("hello",end=" ")
 #this is editor
 
 print('hi')
